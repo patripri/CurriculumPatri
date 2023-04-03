@@ -1,0 +1,113 @@
+body {
+  background-color: #F8FEFF;
+}
+
+h1  {  
+  font-family: 'Abril Fatface';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 140px;
+  line-height: 189px;
+  margin-top: 0%;
+  margin-left: -15%;
+  margin-bottom: -2%;
+  color: #1B1B1B;
+}
+
+h2 {
+  margin-top: 0.5%;
+  margin-bottom: 0%;
+  font-family: Montserrat;
+  font-size: 49px;
+  font-weight: 400;
+  line-height: 61px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+h3 {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 35px;
+  line-height: 43px;
+  color: #000000;
+  margin-bottom: 2%;
+  }
+
+p {
+  margin-top: 7px;
+  margin-bottom: 7px;
+  font-family: Montserrat;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+p2{
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 37px;
+  color: #FFC700;
+}
+
+p3 {
+  font-family: Montserrat;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+p4 {
+  color: #FFC700;
+}
+
+li {
+  font-family: Montserrat;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+#contenedor {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-left: 20%;
+  margin-right: 10%;
+  }
+
+#izquierda {
+  width: 50%;
+  margin-right: 10%;
+  }
+
+#derecha {
+  width: 40%;
+  margin-top: -10%;
+  }
+
+img {
+  width: 100%;
+  }
+
+
+#textoderecha {
+  margin-left: 15%;
+  margin-top: -2%;
+  }
+
+#difuminado{
+  width: 747px;
+  margin-top: -20%;
+  margin-bottom: -1%;
+  margin-left: -1%;
+  }
